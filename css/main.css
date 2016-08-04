@@ -1,0 +1,50 @@
+body {
+	height: 100%;
+}
+header {
+	padding-bottom: 182px;
+	text-align: center;
+}
+form {
+	padding-top: 40px;
+}
+input {
+	height: 36px;
+    line-height: 27px;
+    display: block;
+}
+ul {
+	text-align: right;
+}
+li {
+	display: inline-block;
+	padding-left: 8px 0 8px;
+	background-color: #A4A4A4;
+}
+a {
+	color: #050505;
+	font-size: 20px;
+	text-decoration: none;
+}
+nav {
+	padding:0 20px;
+}
+footer {
+	height: 500px;
+}
+form {
+	margin-left: 88px;
+}
+input {
+	margin-top: 5px;
+}
+.strn {
+	width: 500px;
+	margin-left: 310px;
+}
+.wer {
+	display: inline-block;
+}
+form .wer {
+	margin-right: 20px;
+}
